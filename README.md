@@ -29,10 +29,10 @@ const ash = {
 };
 ```
 
-- 🌌 &nbsp;I build **fast, polished web interfaces** — Next.js · React · TypeScript · Tailwind
-- 🧩 &nbsp;Obsessed with **design fidelity, performance, and clean architecture**
-- 🪐 &nbsp;Exploring **crypto / web3** front-ends and real-time UIs
-- 💬 &nbsp;Ask me about **front-end, i18n, or shipping pixel-perfect clones**
+* 🌌  I build **fast, polished web interfaces** — Next.js · React · TypeScript · Tailwind
+* 🧩  Obsessed with **design fidelity, performance, and clean architecture**
+* 🪐  Exploring **crypto / web3** front-ends and real-time UIs
+* 💬  Ask me about **front-end, i18n, or shipping pixel-perfect clones**
 
 <!-- personalize: swap in your real name, location, or a one-line bio here -->
 
@@ -42,16 +42,16 @@ const ash = {
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-1199FA?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-1199FA?style=for-the-badge\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 </div>
 
@@ -62,6 +62,7 @@ const ash = {
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashsawtech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1199FA&icon_color=22D3EE&text_color=9BA3B4" alt="stats" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashsawtech&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=1199FA&text_color=9BA3B4" alt="top langs" />
 
 <br/>
@@ -80,12 +81,23 @@ const ash = {
 
 <div align="center">
 
-<a href="https://github.com/ashsawtech"><img src="https://img.shields.io/badge/GitHub-@ashsawtech-1199FA?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1B" alt="github" /></a>
+<a href="https://x.com/ashsawtech">
+  <img src="https://img.shields.io/badge/X-@ashsawtech-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+</a>
 
+<a href="https://github.com/ashsawtech">
+  <img src="https://img.shields.io/badge/GitHub-@ashsawtech-1199FA?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1B" alt="github" />
+</a>
+
+<!-- Add your socials: uncomment a line and drop in your URL -->
+
+<!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
+
+<!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1199FA?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a> -->
 
 </div>
 
-> 💡 &nbsp;**Add your socials:** open `README.md`, uncomment the LinkedIn / X / Portfolio badges above, and drop in your links.
+> 💡  **Connect with me:** Find me on X and GitHub.
 
 <div align="center">
 
@@ -94,4 +106,3 @@ const ash = {
 <sub>✦ ship it — then make it flawless ✦</sub>
 
 </div>
-
