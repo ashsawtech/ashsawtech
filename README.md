@@ -82,10 +82,6 @@ const ash = {
 
 <a href="https://github.com/ashsawtech"><img src="https://img.shields.io/badge/GitHub-@ashsawtech-1199FA?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1B" alt="github" /></a>
 
-<!-- Add your socials: uncomment a line and drop in your URL -->
-<!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
-<!-- <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a> -->
-<!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1199FA?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a> -->
 
 </div>
 
