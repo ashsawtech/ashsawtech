@@ -34,8 +34,6 @@ const ash = {
 * 🪐  Exploring **crypto / web3** front-ends and real-time UIs
 * 💬  Ask me about **front-end, i18n, or shipping pixel-perfect clones**
 
-<!-- personalize: swap in your real name, location, or a one-line bio here -->
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -63,15 +61,15 @@ const ash = {
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashsawtech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1199FA&icon_color=22D3EE&text_color=9BA3B4" alt="stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashsawtech&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=1199FA&text_color=9BA3B4" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashsawtech&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=1199FA&text_color=9BA3B4" alt="top languages" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsawtech&hide_border=true&background=00000000&stroke=1199FA&ring=22D3EE&fire=22D3EE&currStreakLabel=1199FA&sideNums=9BA3B4&sideLabels=9BA3B4&dates=576675" alt="streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsawtech&hide_border=true&background=00000000&stroke=1199FA&ring=22D3EE&fire=22D3EE&currStreakLabel=1199FA&sideNums=9BA3B4&sideLabels=9BA3B4&dates=576675" alt="streak stats" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashsawtech&bg_color=00000000&color=1199FA&line=22D3EE&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashsawtech&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashsawtech&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub trophies" />
 
 </div>
 
@@ -82,22 +80,18 @@ const ash = {
 <div align="center">
 
 <a href="https://x.com/ashsawtech">
-  <img src="https://img.shields.io/badge/X-@ashsawtech-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+  <img src="https://img.shields.io/badge/X-@ashsawtech-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<a href="https://www.linkedin.com/in/ash-k-095408432/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ash%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/ashsawtech">
-  <img src="https://img.shields.io/badge/GitHub-@ashsawtech-1199FA?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1B" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-@ashsawtech-1199FA?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1B" alt="GitHub" />
 </a>
 
-<!-- Add your socials: uncomment a line and drop in your URL -->
-
-<!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
-
-<!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1199FA?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a> -->
-
 </div>
-
-> 💡  **Connect with me:** Find me on X and GitHub.
 
 <div align="center">
 
